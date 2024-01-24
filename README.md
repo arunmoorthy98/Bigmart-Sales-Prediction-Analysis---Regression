@@ -15,23 +15,4 @@ Using this model, BigMart will try to understand the properties of products and 
 
 
 Download link: https://www.kaggle.com/devashish0507/big-mart-sales-prediction
-
-Libraries
-
-pandas
-
-matplotlib
-
-
-seaborn
-scikit-learn
-Algorithms
-Linear Regression
-Ridge
-Lasso
-Decision Tree
-Random Forest
-Extra Tress
-Mean Squared Error: 0.28
-
-Note: The Error metric is in log values. To convert to original values, use exponentiation.
+in log values. To convert to original values, use exponentiation.
